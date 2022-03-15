@@ -1,0 +1,17 @@
+.Chips {
+  color: white;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.Pots .Chips:before {
+  content: "Pot: ";
+}
+
+.Seat .Chips {
+  margin-top: 5px;
+}
+
+.Seat .Chips:before {
+  content: "Bet: ";
+}

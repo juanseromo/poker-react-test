@@ -1,0 +1,170 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="Card-yourspritesname"></i>
+Responsive: <div class="Card-yourspritesname"></div>
+*/
+
+
+.Card-2c {max-width:140px; max-height:190px; }
+.Card-2c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-2c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-2d {max-width:140px; max-height:190px; }
+.Card-2d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-2d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-2h {max-width:140px; max-height:190px; }
+.Card-2h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-2h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-2s {max-width:140px; max-height:190px; }
+.Card-2s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-2s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-3c {max-width:140px; max-height:190px; }
+.Card-3c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-3c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-3d {max-width:140px; max-height:190px; }
+.Card-3d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-3d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-3h {max-width:140px; max-height:190px; }
+.Card-3h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 0.07468259895444361%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-3h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-3s {max-width:140px; max-height:190px; }
+.Card-3s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-3s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-4c {max-width:140px; max-height:190px; }
+.Card-4c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-4c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-4d {max-width:140px; max-height:190px; }
+.Card-4d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-4d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-4h {max-width:140px; max-height:190px; }
+.Card-4h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-4h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-4s {max-width:140px; max-height:190px; }
+.Card-4s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-4s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-5c {max-width:140px; max-height:190px; }
+.Card-5c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-5c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-5d {max-width:140px; max-height:190px; }
+.Card-5d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 14.339058999253174%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-5d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-5h {max-width:140px; max-height:190px; }
+.Card-5h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-5h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-5s {max-width:140px; max-height:190px; }
+.Card-5s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-5s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-6c {max-width:140px; max-height:190px; }
+.Card-6c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-6c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-6d {max-width:140px; max-height:190px; }
+.Card-6d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-6d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-6h {max-width:140px; max-height:190px; }
+.Card-6h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-6h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-6s {max-width:140px; max-height:190px; }
+.Card-6s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-6s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-7c {max-width:140px; max-height:190px; }
+.Card-7c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 28.603435399551906%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-7c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-7d {max-width:140px; max-height:190px; }
+.Card-7d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-7d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-7h {max-width:140px; max-height:190px; }
+.Card-7h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-7h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-7s {max-width:140px; max-height:190px; }
+.Card-7s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-7s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-8c {max-width:140px; max-height:190px; }
+.Card-8c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-8c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-8d {max-width:140px; max-height:190px; }
+.Card-8d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-8d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-8h {max-width:140px; max-height:190px; }
+.Card-8h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-8h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-8s {max-width:140px; max-height:190px; }
+.Card-8s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 42.867811799850635%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-8s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-9c {max-width:140px; max-height:190px; }
+.Card-9c::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-9c::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-9d {max-width:140px; max-height:190px; }
+.Card-9d::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-9d::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-9h {max-width:140px; max-height:190px; }
+.Card-9h::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-9h::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-9s {max-width:140px; max-height:190px; }
+.Card-9s::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-9s::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Ac {max-width:140px; max-height:190px; }
+.Card-Ac::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Ac::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Ad {max-width:140px; max-height:190px; }
+.Card-Ad::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Ad::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Ah {max-width:140px; max-height:190px; }
+.Card-Ah::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 57.132188200149365%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Ah::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-As {max-width:140px; max-height:190px; }
+.Card-As::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-As::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Jc {max-width:140px; max-height:190px; }
+.Card-Jc::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Jc::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Jd {max-width:140px; max-height:190px; }
+.Card-Jd::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Jd::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Jh {max-width:140px; max-height:190px; }
+.Card-Jh::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Jh::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Js {max-width:140px; max-height:190px; }
+.Card-Js::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Js::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Kc {max-width:140px; max-height:190px; }
+.Card-Kc::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Kc::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Kd {max-width:140px; max-height:190px; }
+.Card-Kd::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 71.3965646004481%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Kd::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Kh {max-width:140px; max-height:190px; }
+.Card-Kh::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Kh::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Ks {max-width:140px; max-height:190px; }
+.Card-Ks::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Ks::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Qc {max-width:140px; max-height:190px; }
+.Card-Qc::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Qc::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Qd {max-width:140px; max-height:190px; }
+.Card-Qd::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Qd::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Qh {max-width:140px; max-height:190px; }
+.Card-Qh::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 66.62735849056604% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Qh::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Qs {max-width:140px; max-height:190px; }
+.Card-Qs::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 83.25471698113208% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Qs::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Tc {max-width:140px; max-height:190px; }
+.Card-Tc::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 99.88207547169812% 85.66094100074683%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Tc::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Td {max-width:140px; max-height:190px; }
+.Card-Td::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 0.1179245283018868% 99.92531740104556%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Td::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Th {max-width:140px; max-height:190px; }
+.Card-Th::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 16.745283018867923% 99.92531740104556%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Th::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-Ts {max-width:140px; max-height:190px; }
+.Card-Ts::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 33.37264150943396% 99.92531740104556%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-Ts::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+.Card-X {max-width:140px; max-height:190px; }
+.Card-X::after {content: '\00a0';display: inline-block; width:140px; height:190px; background-position: 50% 99.92531740104556%;background-size: 705.7142857142857% 804.7368421052631%;background-image: url(/cards.png);padding: 0; }
+div.Card-X::after {max-width:140px; width:100%;height:0;padding: 0 0 135.71428571428572% 0;}
+
+/* $TexturePacker:SmartUpdate:09887ecccae49c7d9f89ea1a2b3f6118:fa2bb2b32bb17b260f6bb036b333e604:d396d8d8a5d192fd8df91f6d87b133d9$ */

@@ -1,0 +1,30 @@
+.Seat {
+  position: absolute;
+  z-index: 20;
+  text-align: center;
+  width: 150px;
+  height: 40px;
+  line-height: 20px;
+  margin-left: -75px;
+  margin-top: -20px;
+}
+
+.Seat .nameplate {
+  background-color: #BED1E8;
+  padding: 3px;
+  border: 2px solid #121B25;
+  border-radius: 8px;
+  height: 50px;
+}
+
+.Seat .nameplate.available {
+  background-color: #BED1E8;
+  line-height: 40px;
+}
+
+.Seats-6 .Seat-0 { left: 200px; top: -250px; }
+.Seats-6 .Seat-1 { left: 470px; top: 50px; }
+.Seats-6 .Seat-2 { left: 200px; top: 300px; }
+.Seats-6 .Seat-3 { left: -200px; top: 300px; }
+.Seats-6 .Seat-4 { left: -470px; top: 50px; }
+.Seats-6 .Seat-5 { left: -200px; top: -250px; }
