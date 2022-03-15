@@ -1,4 +1,22 @@
-export default {
+import axios from "axios";
+
+const fetchTables = async () => {
+    try {
+        const response = await axios.get('https://storage.googleapis.com/replaypoker-dummy-api/tables/1.json')
+        if (response.status === 200 ) {
+            localStorage.setItem('tableData', JSON.stringify(response.data))
+            return response.data
+        }
+    } catch (e) {
+        console.log(e)
+    }
+}
+
+const fetchTable = fetchTables().then(e => e)
+
+export default fetchTable
+
+/*export default {
   id: 1,
   state: 'open',
   game: 'holdem',
@@ -24,4 +42,4 @@ export default {
     ],
     pots: [],
   },
-}
+}*/

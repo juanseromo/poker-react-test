@@ -5,7 +5,7 @@
   height: 768px;
   background-color: gold;
   overflow: hidden;
-  background: url(/table.png);
+  background: url(../../../public/table.png);
   background-repeat: no-repeat;
   background-position: center;
   margin: 20px auto 0;

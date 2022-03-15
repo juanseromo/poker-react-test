@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import { tableShape } from './types';
+import {seatShape, tableShape} from './types';
 
 import Table from './components/Table';
 
 import './App.css';
 
 class App extends Component {
+
   static propTypes = {
     table: tableShape.isRequired,
   }
