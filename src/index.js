@@ -2,14 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {Provider} from 'react-redux';
+import store from './redux/store';
+import {tableDefault} from "./data/tableDefault";
 
 // TODO: Retrieve this data from the API rather than a fixture
-import fetchTable from './data/table-1'
 
-const table = JSON.parse(localStorage.getItem('tableData'))
 
 ReactDOM.render(
-    <App table={table} />,
+    <Provider store={store}>
+        <App table={tableDefault} />,
+    </Provider>,
     document.getElementById('root')
 );
 

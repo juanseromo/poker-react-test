@@ -5,7 +5,7 @@ import Table from './Table';
 import Seats from '../Seats';
 import Pots from '../Pots';
 import Cards from '../Cards';
-import data from '../../data/table-1';
+import data from '../../data/useFetchTables';
 
 describe('Table', () => {
   let component;

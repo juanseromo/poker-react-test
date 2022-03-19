@@ -3,7 +3,7 @@ import { shallow } from 'enzyme';
 
 import Seats from './Seats';
 import Seat from '../Seat';
-import data from '../../data/table-1';
+import data from '../../data/useFetchTables';
 
 describe('Seats', () => {
   let component;
