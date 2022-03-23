@@ -8,7 +8,7 @@ const Chips = ({ amount }) => {
 
   return (
     <div className="Chips">
-      {amount}
+      {(amount.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","))}
     </div>
   );
 }

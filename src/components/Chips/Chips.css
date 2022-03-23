@@ -1,18 +1,23 @@
 .Chips {
-  color: darkgreen;
   font-size: 18px;
   font-weight: 700 ;
   line-height: 18px;
-  background-color: aqua;
-  border-radius: 25px;
-  width: 50px;
-  height: 50px;
-  border: 2px solid coral;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin: 0 auto;
+  margin-top: 20px;
+  /*margin-left: 30px;*/
+}
+
+.Pots .Chips {
+  color: whitesmoke;
+  margin-left: -25px;
+  background-color: #161e1e;
+  border-radius: 5px;
+  width: 120px;
+  height: 50px;
+  border: 2px solid rgba(237, 253, 244, 0.88);
 }
 
 .Pots .Chips:before {
@@ -20,7 +25,14 @@
 }
 
 .Seat .Chips {
+  color: darkgreen;
+  background-color: aqua;
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  border: 2px solid coral;
   margin-top: 5px;
+  margin-left: 40px;
 }
 
 .Seat .Chips:before {

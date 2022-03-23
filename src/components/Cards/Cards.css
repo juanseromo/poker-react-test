@@ -1,9 +1,13 @@
+.Cards {
+  margin-bottom: -30px;
+}
+
 .Seat .Cards {
   position: absolute;
   top: -5px;
   left: 75px;
   width: 150px;
-  margin-left: -72px;
+  margin-left: -52px;
 }
 
 .Table > * > .Cards {

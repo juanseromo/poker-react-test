@@ -10,18 +10,31 @@ import {fetchTablesData} from "./redux/actions";
 import {useSelector, shallowEqual, useDispatch } from "react-redux";
 
 function App ({table}){
-    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/1.json';
+    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/3.json';
     const dispatch = useDispatch();
     const tablesData = useSelector((state) => state.tablesData, shallowEqual)
     const [errorMessage, setErrorMessage] = useState('');
     const [tablesInfo, setTablesInfo] = useState({})
 
+    console.log(tablesData)
+    // Object.values(tablesData).seats.push({
+    //              "id": 2,
+    //              "state": "available"
+    //          },)
+
+    // charlie is not playing
+    // thousand separator
 
     useEffect(()=> {
+        let tablesSeats = {}
+        // tablesSeats.seats[4] = {
+        //                  "id": 2,
+        //                  "state": "available"
+        //              }
         const fetchData = () => {
             axios.get(url)
                 .then(response => {
-                    dispatch(fetchTablesData(response.data));
+                    return dispatch(fetchTablesData(response.data));
                 })
                 .catch(e => {
                     setErrorMessage(e.message);
@@ -32,12 +45,6 @@ function App ({table}){
     }, [url] )
 
 
-  /*  useEffect(()=> {
-        console.log(tablesData)
-
-        setTablesInfo(tablesData)
-    },[tablesData])
-*/
   return (
       <div className="App">
         <Table table={tablesData} />
@@ -45,22 +52,4 @@ function App ({table}){
   );
 
 }
-/*
-class App extends Component {
-
-  static propTypes = {
-    table: tableShape.isRequired,
-  }
-
-  render() {
-    const { table } = this.props;
-
-    return (
-      <div className="App">
-        <Table table={table} />
-      </div>
-    );
-  }
-}*/
-
 export default App;

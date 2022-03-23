@@ -1,14 +1,16 @@
 .Table {
   position: relative;
-  display: block;
-  width: 1200px;
-  height: 768px;
+  /*display: block;*/
+  width: 100vw;
+  height: 100vh;
   background-color: gold;
   overflow: hidden;
   background: url(../../../public/table.png);
   background-repeat: no-repeat;
   background-position: center;
   margin: 20px auto 0;
+  display: flex;
+  flex-direction: row;
 }
 
 .Table > div {
