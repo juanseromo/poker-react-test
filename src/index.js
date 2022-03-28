@@ -4,14 +4,12 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import {Provider} from 'react-redux';
 import store from './redux/store';
-import {tableDefault} from "./data/tableDefault";
 
 // TODO: Retrieve this data from the API rather than a fixture
 
-
 ReactDOM.render(
     <Provider store={store}>
-        <App table={tableDefault} />,
+        <App />,
     </Provider>,
     document.getElementById('root')
 );

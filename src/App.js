@@ -1,13 +1,13 @@
 import React, {useEffect, useState} from 'react';
-import {tableShape} from './types';
 import Table from './components/Table';
 import './App.css';
 import axios from "axios";
 import {fetchTablesData} from "./redux/actions";
 import {useSelector, shallowEqual, useDispatch } from "react-redux";
+import {tableDefault} from "./data/tableDefault";
 
-function App ({table}){
-    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/5.json';
+function App () {
+    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/6.json';
     const dispatch = useDispatch();
     const tablesData = useSelector((state) => state.tablesData, shallowEqual)
     const [errorMessage, setErrorMessage] = useState('');
@@ -34,7 +34,7 @@ function App ({table}){
   );
 }
 
-App.propTypes = {
-    table: tableShape.isRequired,
+App.defaultProps = {
+    table: tableDefault,
 }
 export default App;
