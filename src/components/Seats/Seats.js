@@ -9,7 +9,11 @@ import Seat from '../Seat';
 
 const Seats = ({ seats, players }) => (
     <div className={cx('Seats', `Seats-${seats.length}`)}>
-      { seats.map((seat) => <Seat key={seat.id} {...seat} {...find(players, { seatId: seat.id })} />) }
+        {
+            players ?
+            seats.map((seat) => <Seat key={seat.id} {...seat} {...find(players, {seatId: seat.id})} />) :
+            null
+        }
     </div>
 );
 

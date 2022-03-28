@@ -7,7 +7,7 @@ import {fetchTablesData} from "./redux/actions";
 import {useSelector, shallowEqual, useDispatch } from "react-redux";
 
 function App ({table}){
-    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/4.json';
+    const url = 'https://storage.googleapis.com/replaypoker-dummy-api/tables/5.json';
     const dispatch = useDispatch();
     const tablesData = useSelector((state) => state.tablesData, shallowEqual)
     const [errorMessage, setErrorMessage] = useState('');
