@@ -16,7 +16,7 @@ const Seat = ({ id, username, chips, cards, bet, fold }) => (
             username ? (
                 <div className="nameplate">
                     <div className="username">{username}</div>
-                    <div className="chips">{(bet > 0 && chips < 0) ? 'All-In' : formatNumber(chips)}</div>
+                    <div className="chips">{(bet >= 0 && chips === 0) ? 'All-In' : formatNumber(chips)}</div>
                 </div>
             ) : (
                 <div className="nameplate available">
