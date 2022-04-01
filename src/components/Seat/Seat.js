@@ -26,7 +26,7 @@ const Seat = ({ id, username, chips, cards, bet, fold }) => (
         }
         <Chips amount={bet}/>
         {
-            !fold ? (<Cards values={cards}/>) : <></>
+            !fold ? (<Cards values={cards} />) : <></>
         }
     </div>
 );

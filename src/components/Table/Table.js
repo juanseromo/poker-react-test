@@ -10,13 +10,13 @@ import './Table.css';
 const Table = ({ table }) => (
     <div className="Table">
         <Seats seats={table.seats} players={table.currentHand !== undefined ? table.currentHand.players : ''}/>
-        <Cards values={table.currentHand !== undefined ? table.currentHand.communityCards : ''}/>
-        <Pots pots={table.currentHand !== undefined ? table.currentHand.pots : ''}/>
+        <Cards communityCards={true} values={table.currentHand !== undefined ? table.currentHand.communityCards : []}/>
+        <Pots pots={table.currentHand !== undefined ? table.currentHand.pots : []}/>
     </div>
 );
 
 Table.propTypes = {
-  table: tableShape.isRequired,
+    table: tableShape.isRequired,
 };
 
 export default Table;

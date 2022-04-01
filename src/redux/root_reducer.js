@@ -2,7 +2,8 @@ import actionTypes from './actionTypes';
 import {tableDefault} from "../data/tableDefault";
 
 let INITIAL_STATE = {
-    tablesData: tableDefault
+    tablesData: tableDefault,
+    communityCards: []
 }
 
 const rootReducer = (state = INITIAL_STATE, action) => {
@@ -11,6 +12,11 @@ const rootReducer = (state = INITIAL_STATE, action) => {
             return {
                 ...state,
                 tablesData: action.payload
+            }
+        case actionTypes.COMMUNITY_CARDS:
+            return {
+                ...state,
+                communityCards: action.payload
             }
         default:
             return state
